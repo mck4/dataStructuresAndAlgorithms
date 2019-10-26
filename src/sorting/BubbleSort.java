@@ -1,5 +1,5 @@
 package sorting;
 
-public class BubbleSort {
+public class BubbleSort implements Sort {
 
 }
